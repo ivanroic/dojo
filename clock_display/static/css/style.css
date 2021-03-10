@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    border: solid black;
+    display: inline-block;
+    margin-left: 40%;
+    padding: 25px;
+
+}
+
+h2 {
+    border: solid black;
+    display: inline-block;
+    margin-left: 45%;
+    padding: 25px;
+}
